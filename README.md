@@ -1,5 +1,5 @@
 # My First Git Project
-**Name:** [Isi nama kamu]
+**Name:** Abdillah Haliim Hanafi
 **Date:** 2026-02-11
 ## What I'm Learning
 - Git basics
